@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SurTech.Facturacion.Core/SurTech.Facturacion.Core.csproj" />
+  <Project Path="SurTech.Facturacion.Data/SurTech.Facturacion.Data.csproj" />
+  <Project Path="SurTech.Facturacion.Services/SurTech.Facturacion.Services.csproj" Id="8b62694e-3762-4232-9117-836c7b991c22" />
+  <Project Path="SurTech.Facturacion.UI/SurTech.Facturacion.UI.csproj" Id="7391ac1e-4799-4871-91cc-03a90fc52704" />
+</Solution>

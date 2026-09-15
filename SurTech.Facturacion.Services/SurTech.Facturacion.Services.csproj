@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SurTech.Facturacion.Core\SurTech.Facturacion.Core.csproj" />
+    <ProjectReference Include="..\SurTech.Facturacion.Data\SurTech.Facturacion.Data.csproj" />
+  </ItemGroup>
+
+</Project>
